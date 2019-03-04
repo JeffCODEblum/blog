@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "*",
+    "cors": "^2.8.5",
+    "express": "*",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "*"
+  }
+}
